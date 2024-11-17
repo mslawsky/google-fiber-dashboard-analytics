@@ -37,18 +37,18 @@ Our analysis revealed powerful opportunities for optimization through the Pareto
 ## Project Documentation
 
 ### Business Intelligence Documents
-- Strategy Document
-- Stakeholder Requirements
-- Project Requirements
-- Follow-up Questions
-- Dashboard Mockups
+- [Strategy Document](strategy-doc-google-fiber.pdf)
+- [Stakeholder Requirements](stakeholder-requirements-google-fiber.pdf)
+- [Project Requirements](project-requirements-google-fiber.pdf)
+- [Follow-up Questions](follow-up-questions-google-fiber.pdf)
+- [Dashboard Mockup](dashboard-mockup-google-fiber.png)
 
 ### Data Analysis Process
 📁 data/
-├── market_1.csv         # Market 1 call center data
-├── market_2.csv         # Market 2 call center data
-├── market_3.csv         # Market 3 call center data
-└── bigquery_results.csv # Combined market analysis
+├── [Market 1 Data](market_1.csv)         # Market 1 call center data
+├── [Market 2 Data](market_2.csv)         # Market 2 call center data
+├── [Market 3 Data](market_3.csv)         # Market 3 call center data
+└── [Combined Analysis](bq-results-20241010-184832-1728586149684.csv) # BigQuery results
 
 ### Dashboard Development
 1. **Data Integration & Cleaning**
