@@ -1,56 +1,64 @@
-# google-fiber-dashboard-analytics
-Google Fiber Dashboard for Improving Call Center Performance
+# Google Fiber Dashboard Analytics
 
-Enabling real-time insights for customer-focused, data-driven decisions to improve call center performance.
+**Google Fiber Dashboard for Improving Call Center Performance**  
+This project enables real-time insights for customer-focused, data-driven decisions aimed at improving call center performance.
 
-[Live Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/GoogleFiberCallCenterDashboard_17290044323220/Dashboard1)
+### [Live Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/GoogleFiberCallCenterDashboard_17290044323220/Dashboard1)
 
 ![Dashboard Overview](dashboard-google-fiber.png)
+
+---
 
 ## Executive Summary & Key Findings
 ![Executive Summary](executive-summary-google-fiber.png)
 
 ### Strategic Insights: The 80/20 Principle in Action
-Our analysis revealed powerful opportunities for optimization through the Pareto Principle:
 
-1. **Problem Type Focus (80.23% of Issues)**
-   - Type 5 Issues: 50.65% of repeat calls
-   - Type 2 Issues: 29.58% of repeat calls
-   - Strategic Focus: Targeting these two problem types addresses majority of challenges
+Our analysis revealed optimization opportunities aligned with the Pareto Principle:
 
-2. **Market Concentration (96.09% of Volume)**
-   - Market 1: 62.47% of repeat calls
-   - Market 3: 33.62% of repeat calls
-   - Resource Optimization: Focusing on these markets maximizes improvement impact
+1. **Problem Type Focus (80.23% of Issues)**:
+   - **Type 5 Issues**: 50.65% of repeat calls
+   - **Type 2 Issues**: 29.58% of repeat calls
+   - **Strategic Focus**: Targeting these problem types addresses the majority of challenges.
 
-3. **Timing Patterns**
+2. **Market Concentration (96.09% of Volume)**:
+   - **Market 1**: 62.47% of repeat calls
+   - **Market 3**: 33.62% of repeat calls
+   - **Resource Optimization**: Focusing on these markets maximizes improvement impact.
+
+3. **Timing Patterns**:
    - 27.68% of repeat calls occur on Day 1
-   - 58.25% of repeat calls happen within first 3 days
-   - Critical Window: Enhanced follow-up within 3-day window
+   - 58.25% of repeat calls happen within the first 3 days
+   - **Critical Window**: Enhanced follow-up within a 3-day window is recommended.
 
 ### Business Impact
-- Potential to resolve 75-80% of repeat call issues
-- Target: 25% reduction in call center rate (next quarter)
-- Current repeat call rate: 31.2%
-- Optimized resource allocation model
+- **Goal**: 25% reduction in repeat call rate next quarter (currently 31.2%)
+- **Potential Impact**: Resolve 75-80% of repeat call issues
+- **Resource Allocation Model**: Optimized for efficiency
+
+---
 
 ## Project Documentation
 
 ### Business Intelligence Documents
-- [Strategy Document](strategy-doc-google-fiber.pdf)
-- [Stakeholder Requirements](stakeholder-requirements-google-fiber.pdf)
-- [Project Requirements](project-requirements-google-fiber.pdf)
-- [Follow-up Questions](follow-up-questions-google-fiber.pdf)
-- [Dashboard Mockup](dashboard-mockup-google-fiber.png)
+- [Strategy Document](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/strategy-doc-google-fiber.pdf)
+- [Stakeholder Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/stakeholder-requirements-google-fiber.pdf)
+- [Project Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/project-requirements-google-fiber.pdf)
+- [Follow-up Questions](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/follow-up-questions-google-fiber.pdf)
+- [Dashboard Mockup](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/dashboard-mockup-google-fiber.png)
 
 ### Data Analysis Process
-📁 data/
-├── [market1.csv](data/market1.csv)         # Market 1 call center data
-├── [market2.csv](data/market2.csv)         # Market 2 call center data 
-├── [market3.csv](data/market3.csv)         # Market 3 call center data
-└── [Combined Analysis](data/bq-results-20241010-184832-1728586149684.csv) # BigQuery results
 
-### Dashboard Development
+📂 **Data Files**
+- [Market 1 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/market1.csv)
+- [Market 2 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/market2.csv)
+- [Market 3 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/market3.csv)
+- [Combined BigQuery Analysis](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/bq-results-20241010-184832-1728586149684.csv)
+
+---
+
+## Dashboard Development
+
 1. **Data Integration & Cleaning**
    - Consolidated market data
    - Standardized formats
@@ -69,6 +77,7 @@ Our analysis revealed powerful opportunities for optimization through the Pareto
    - Temporal trend visualization
 
 ### Implementation Recommendations
+
 1. **Immediate Actions**
    - Focus training on Problem Types 5 and 2
    - Prioritize Markets 1 and 3
@@ -79,7 +88,10 @@ Our analysis revealed powerful opportunities for optimization through the Pareto
    - Market-specific support teams
    - Enhanced first-call resolution protocols
 
-### Contact
+---
+
+## Contact
+
 For inquiries about this analysis:
 - [LinkedIn Profile](https://www.linkedin.com/in/melissaslawsky/)
 - [Professional Website](https://melissaslawsky.com/client-results/)
@@ -87,7 +99,9 @@ For inquiries about this analysis:
 - [Email](mailto:melissa@melissaslawsky.com)
 
 ---
-© Melissa Slawsky 2024. All Rights Reserved.
-This repository contains proprietary analysis. All rights reserved.
 
-Published Project URL: [Google Fiber Call Center Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/GoogleFiberCallCenterDashboard_17290044323220/Dashboard1)
+© Melissa Slawsky 2024. All Rights Reserved.  
+This repository contains proprietary analysis.
+
+**Published Project URL**: [Google Fiber Call Center Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/GoogleFiberCallCenterDashboard_17290044323220/Dashboard1)
+
