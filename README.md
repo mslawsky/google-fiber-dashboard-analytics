@@ -41,11 +41,11 @@ Our analysis revealed optimization opportunities aligned with the Pareto Princip
 ## Project Documentation
 
 ### Business Intelligence Documents
-- [Strategy Document](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/strategy-doc-google-fiber.pdf)
-- [Stakeholder Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/stakeholder-requirements-google-fiber.pdf)
-- [Project Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/project-requirements-google-fiber.pdf)
-- [Follow-up Questions](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/follow-up-questions-google-fiber.pdf)
-- [Dashboard Mockup](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/dashboard-mockup-google-fiber.png)
+- [Strategy Document](https://github.com/mslawsky/google-fiber-dashboard-analytics/raw/main/strategy-doc-google-fiber.pdf) (PDF)
+- [Stakeholder Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/raw/main/stakeholder-requirements-google-fiber.pdf) (PDF)
+- [Project Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/raw/main/project-requirements-google-fiber.pdf) (PDF)
+- [Follow-up Questions](https://github.com/mslawsky/google-fiber-dashboard-analytics/raw/main/follow-up-questions-google-fiber.pdf) (PDF)
+- [Dashboard Mockup](https://github.com/mslawsky/google-fiber-dashboard-analytics/raw/main/dashboard-mockup-google-fiber.png) (Image)
 
 ### Data Analysis Process
 
@@ -104,4 +104,3 @@ For inquiries about this analysis:
 This repository contains proprietary analysis.
 
 **Published Project URL**: [Google Fiber Call Center Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/GoogleFiberCallCenterDashboard_17290044323220/Dashboard1)
-
