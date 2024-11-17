@@ -41,19 +41,19 @@ Our analysis revealed optimization opportunities aligned with the Pareto Princip
 ## Project Documentation
 
 ### Business Intelligence Documents
-- [Strategy Document](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/strategy-doc-google-fiber.pdf)
-- [Stakeholder Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/stakeholder-requirements-google-fiber.pdf)
-- [Project Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/project-requirements-google-fiber.pdf)
-- [Follow-up Questions](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/follow-up-questions-google-fiber.pdf)
-- [Dashboard Mockup](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/docs/dashboard-mockup-google-fiber.png)
+- [Strategy Document](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/strategy-doc-google-fiber.pdf)
+- [Stakeholder Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/stakeholder-requirements-google-fiber.pdf)
+- [Project Requirements](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/project-requirements-google-fiber.pdf)
+- [Follow-up Questions](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/follow-up-questions-google-fiber.pdf)
+- [Dashboard Mockup](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/dashboard-mockup-google-fiber.png)
 
 ### Data Analysis Process
 
 📂 **Data Files**
-- [Market 1 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/market1.csv)
-- [Market 2 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/market2.csv)
-- [Market 3 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/market3.csv)
-- [Combined BigQuery Analysis](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/data/bq-results-20241010-184832-1728586149684.csv)
+- [Market 1 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/market1.csv)
+- [Market 2 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/market2.csv)
+- [Market 3 Call Center Data](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/market3.csv)
+- [Combined BigQuery Analysis](https://github.com/mslawsky/google-fiber-dashboard-analytics/blob/main/bq-results-20241010-184832-1728586149684.csv)
 
 ---
 
