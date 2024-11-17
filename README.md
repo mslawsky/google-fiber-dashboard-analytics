@@ -45,10 +45,10 @@ Our analysis revealed powerful opportunities for optimization through the Pareto
 
 ### Data Analysis Process
 📁 data/
-├── [Market 1 Data](market_1.csv)         # Market 1 call center data
-├── [Market 2 Data](market_2.csv)         # Market 2 call center data
-├── [Market 3 Data](market_3.csv)         # Market 3 call center data
-└── [Combined Analysis](bq-results-20241010-184832-1728586149684.csv) # BigQuery results
+├── [market1.csv](data/market1.csv)         # Market 1 call center data
+├── [market2.csv](data/market2.csv)         # Market 2 call center data 
+├── [market3.csv](data/market3.csv)         # Market 3 call center data
+└── [Combined Analysis](data/bq-results-20241010-184832-1728586149684.csv) # BigQuery results
 
 ### Dashboard Development
 1. **Data Integration & Cleaning**
