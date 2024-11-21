@@ -10,7 +10,7 @@ This project enables real-time insights for customer-focused, data-driven decisi
 ---
 
 ## Executive Summary & Key Findings
-![Executive Summary](executive-summary-google-fiber.png)
+![Executive Summary](google-executive-summary.png)
 
 ### Strategic Insights: The 80/20 Principle in Action
 
