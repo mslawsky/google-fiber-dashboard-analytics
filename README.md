@@ -10,7 +10,7 @@ This project enables real-time insights for customer-focused, data-driven decisi
 ---
 
 ## Executive Summary & Key Findings
-![Executive Summary](google-executive-summary.png)
+![Executive Summary](google-fiber-executive-summary.png)
 
 ---
 
