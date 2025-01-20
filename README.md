@@ -102,7 +102,7 @@ For inquiries about this analysis:
 
 ---
 
-© Melissa Slawsky 2024. All Rights Reserved.  
+© Melissa Slawsky 2025. All Rights Reserved.  
 This repository contains proprietary analysis.
 
 **Published Project URL**: [Google Fiber Call Center Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/GoogleFiberCallCenterDashboard_17290044323220/Dashboard1)
